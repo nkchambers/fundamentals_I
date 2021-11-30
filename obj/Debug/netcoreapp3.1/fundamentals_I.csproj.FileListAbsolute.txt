@@ -1,0 +1,13 @@
+C:\Users\nick8\Desktop\C#\fundamentals_I\bin\Debug\netcoreapp3.1\fundamentals_I.exe
+C:\Users\nick8\Desktop\C#\fundamentals_I\bin\Debug\netcoreapp3.1\fundamentals_I.deps.json
+C:\Users\nick8\Desktop\C#\fundamentals_I\bin\Debug\netcoreapp3.1\fundamentals_I.runtimeconfig.json
+C:\Users\nick8\Desktop\C#\fundamentals_I\bin\Debug\netcoreapp3.1\fundamentals_I.runtimeconfig.dev.json
+C:\Users\nick8\Desktop\C#\fundamentals_I\bin\Debug\netcoreapp3.1\fundamentals_I.dll
+C:\Users\nick8\Desktop\C#\fundamentals_I\bin\Debug\netcoreapp3.1\fundamentals_I.pdb
+C:\Users\nick8\Desktop\C#\fundamentals_I\obj\Debug\netcoreapp3.1\fundamentals_I.csprojAssemblyReference.cache
+C:\Users\nick8\Desktop\C#\fundamentals_I\obj\Debug\netcoreapp3.1\fundamentals_I.AssemblyInfoInputs.cache
+C:\Users\nick8\Desktop\C#\fundamentals_I\obj\Debug\netcoreapp3.1\fundamentals_I.AssemblyInfo.cs
+C:\Users\nick8\Desktop\C#\fundamentals_I\obj\Debug\netcoreapp3.1\fundamentals_I.csproj.CoreCompileInputs.cache
+C:\Users\nick8\Desktop\C#\fundamentals_I\obj\Debug\netcoreapp3.1\fundamentals_I.dll
+C:\Users\nick8\Desktop\C#\fundamentals_I\obj\Debug\netcoreapp3.1\fundamentals_I.pdb
+C:\Users\nick8\Desktop\C#\fundamentals_I\obj\Debug\netcoreapp3.1\fundamentals_I.genruntimeconfig.cache
